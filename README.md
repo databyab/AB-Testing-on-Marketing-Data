@@ -22,7 +22,7 @@ All analysis is contained in a single notebook for clarity and reproducibility.
 
 ---
 
-## 🧪 Methodology
+## Methodology
 
 ### 1. Data Cleaning & Exploration
 - Removed redundant index columns
@@ -100,7 +100,7 @@ This allows comparison of:
 
 ---
 
-## 🛠 Tools & Libraries
+## Tools & Libraries
 
 - Python
 - pandas
